@@ -6,6 +6,8 @@ public class quiz {
 	
 	public static void main(String[] args)
 	{
+		
+		//trying GIT
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a number less than 10: ");
 		boolean tryAgain = true;
